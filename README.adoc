@@ -7,9 +7,10 @@
 == Historique Spring Boot 2.0+
 
 |===
-| -- | Spring Boot 2.0 | Spring Boot 2.1 | Spring Boot 2.2 | Spring Boot 3.0
+| Spring Boot ➡️ | Spring Boot 2.0 | Spring Boot 2.1 | Spring Boot 2.2 | Spring Boot 2.7 | Spring Boot 3.0
 
 | Java baseline
+| Java 8
 | Java 8
 | Java 8
 | Java 8
@@ -19,30 +20,35 @@
 | 5.0
 | 5.1
 | 5.2
+| 5.3
 | 6.0
 
 | Spring Security
 | 5.0
 | 5.1
 | 5.2
+| 5.7
 | 6.0
 
 | Blog Post
 | https://spring.io/blog/2018/03/01/spring-boot-2-0-goes-ga[👉]
 | https://spring.io/blog/2018/10/30/spring-boot-2-1-0[👉]
 | https://spring.io/blog/2019/10/16/spring-boot-2-2-0[👉]
+| https://spring.io/blog/2022/05/19/spring-boot-2-7-0-available-now[👉]
 | https://spring.io/blog/2022/11/24/spring-boot-3-0-goes-ga[👉]
 
 | Release Notes
 | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Release-Notes[🗒]
 | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.1-Release-Notes[🗒]
 | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.2-Release-Notes[🗒]
+| https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.7-Release-Notes[🗒]
 | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-3.0-Release-Notes[🗒]
 
 | GitHub Release
 | https://github.com/spring-projects/spring-boot/releases/tag/v2.0.0.RELEASE[🏷]
 | https://github.com/spring-projects/spring-boot/releases/tag/v2.1.0.RELEASE[🏷]
 | https://github.com/spring-projects/spring-boot/releases/tag/v2.2.0.RELEASE[🏷]
+| https://github.com/spring-projects/spring-boot/releases/tag/v2.7.0[🏷]
 | https://github.com/spring-projects/spring-boot/releases/tag/v3.0.0[🏷]
 
 |===
