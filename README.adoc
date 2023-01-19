@@ -3,6 +3,7 @@
 :toc: auto
 :toclevels: 3
 :icons: font
+:table-stripes: hover
 
 == Historique Spring Boot 2.0+
 
@@ -29,6 +30,42 @@
 | 5.2
 | 5.7
 | 6.0
+
+| Spring Web Services
+|
+|
+|
+|
+|
+
+| • soap-api (SAAJ)
+| --
+| 1.4.0
+| 1.4.1
+| 1.4.2
+| 3.0.0
+
+| • ws-api (JAX-WS API)
+| --
+| 2.3.1
+| 2.3.2
+| 2.3.3
+| 4.0.0
+
+| • xml.bind-api (JAX-B)
+| --
+| 2.3.1
+| 2.3.2
+| 2.3.3
+| 4.0.0
+
+| • spring-ws-core
+| 3.0.0
+| 3.0.4
+| 3.0.7
+| 3.1
+| 4.0
+
 
 | Blog Post
 | https://spring.io/blog/2018/03/01/spring-boot-2-0-goes-ga[👉]
