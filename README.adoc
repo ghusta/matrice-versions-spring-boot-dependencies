@@ -164,7 +164,7 @@
 | https://spring.io/blog/2022/05/19/spring-boot-2-7-0-available-now[👉]
 | https://spring.io/blog/2022/11/24/spring-boot-3-0-goes-ga[👉]
 | https://spring.io/blog/2023/05/18/spring-boot-3-1-0-available-now[👉]
-| 🚧
+| https://spring.io/blog/2023/11/23/spring-boot-3-2-0-available-now[👉]
 
 | Release Notes
 | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Release-Notes[🗒]
