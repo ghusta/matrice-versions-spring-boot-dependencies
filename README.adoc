@@ -91,7 +91,7 @@
 | 5.6
 | 6.1
 | 6.2
-| 6.3
+| 6.3-6.4 (since 3.2.1footnote:[Hibernate 6.4 introduced in v3.2.1. See details in https://github.com/spring-projects/spring-boot/issues/38870[#38870] and https://github.com/spring-projects/spring-boot/issues/38523[#38523].])
 |
 
 | Spring Web Services ⤵
