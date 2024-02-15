@@ -207,3 +207,10 @@
 | https://github.com/spring-projects/spring-boot/releases/tag/v3.3.0[🏷]
 
 |===
+
+== Versions supportées actuellement / end of life
+
+Voir : 
+
+* https://spring.io/projects/spring-boot#support
+* https://endoflife.date/spring-boot
