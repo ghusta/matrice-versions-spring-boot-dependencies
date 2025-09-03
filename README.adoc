@@ -267,6 +267,14 @@
 
 |===
 
+== Spring Support Mappings
+
+Cette page officielle sur _spring.io_ permet de visualiser la liste des dépendances par version de Spring Boot :
+
+* https://spring.io/projects/generations.
+
+image::media/spring support capture.jpg[Spring Boot Mappings,400]
+
 == Versions supportées actuellement / end of life
 
 Voir : 
