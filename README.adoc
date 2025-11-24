@@ -229,7 +229,7 @@
 | https://spring.io/blog/2024/05/23/spring-boot-3-3-0-available-now[👉]
 | https://spring.io/blog/2024/11/21/spring-boot-3-4-0-available-now[👉]
 | https://spring.io/blog/2025/05/22/spring-boot-3-5-0-available-now[👉]
-| 🚧
+| https://spring.io/blog/2025/11/20/spring-boot-4-0-0-available-now[👉]
 
 | Release Notes
 | https://github.com/spring-projects/spring-boot/wiki/Spring-Boot-2.0-Release-Notes[🗒]
